@@ -1,0 +1,27 @@
+header{
+    text-align: center;
+}
+
+#imagen{
+    text-align: center;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif
+}
+
+img{
+    height: 50%;
+    border-style: double;
+    border-width: 5px;
+}
+
+h2{
+    text-align: center;
+}
+
+footer{
+    margin-top: 50px;
+}
+
+body{
+    background-color: blue;
+}
